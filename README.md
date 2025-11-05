@@ -19,7 +19,7 @@ This repository contains a complete pipeline for skin cancer detection, from mod
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/Ankitsharma2023/Skin_Cancer_Detection_Using_DeepLearning.git
 cd Skin_Cancer_Detection_Using_DeepLearning
 
 # Install dependencies
